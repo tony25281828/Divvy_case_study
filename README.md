@@ -1,4 +1,4 @@
-# Divvy_case_study
+# Divvy_case_study v.1.0
 
 ## This case study comes from Coursera Course.
 ------------------------------------------------
