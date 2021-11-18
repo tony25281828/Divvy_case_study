@@ -16,9 +16,12 @@
 * Data cleaning code using BigQuery is in Divvy_sql_code.sql.
 * Data visualization code using R is in Divvy_R_code.R.
 * Data analysis report is in Divvy_report.pdf.
+* tableau_divvy_dashboard.pdf is created by using Tableau Public.
+* google_divvy_dashboard.pdf is created by using Google Data Studio.
 
 
 
 ## Updates
 * 2021/11/17: Upload Divvy_dashboard.pdf created by using Tableau <https://public.tableau.com/views/Divvy_bike/Dashboard1?:language=zhTW&publish=yes&:display_count=n&:origin=viz_share_link>.
 * 2021/11/17: Upload Divvy_report.pdf. New slides were added.
+* 2021/11/18: Upload Google Data Studio dashboard pdf
