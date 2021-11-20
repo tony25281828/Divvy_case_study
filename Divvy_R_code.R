@@ -33,7 +33,7 @@ library(lubridate)
 #===========================================================
 
 # Load data from three different year datasets
-bike_data_2019 = read.csv('data/divvy_trips_2019.csv') # From Jan to Dec
+bike_data_2019 = read.csv('data/divvy_trips_2019.csv') # From Jan to Dec 
 bike_data_2020 = read.csv('data/divvy_trips_2020.csv') # From Jan to Dec
 bike_data_2021 = read.csv('data/divvy_trips_2021.csv') # From Jan to Oct
 
