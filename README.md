@@ -26,5 +26,5 @@
 * 2021/11/17: Upload Divvy_dashboard.pdf created by using Tableau <https://public.tableau.com/views/Divvy_bike/Dashboard1?:language=zhTW&publish=yes&:display_count=n&:origin=viz_share_link>.
 * 2021/11/17: Upload Divvy_report.pdf. New slides were added.
 * 2021/11/18: Upload Google Data Studio dashboard pdf
-<https://datastudio.google.com/reporting/d44b2a43-9839-4386-9401-92840df23437>
+<https://datastudio.google.com/reporting/04c2b7da-e700-44dd-95c4-d424cdd4ab01>
 * 2021/11/19: Upload Microsoft PowerBI dashboard pdf
